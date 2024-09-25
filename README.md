@@ -27,10 +27,10 @@ Economist & Data Scientist
   <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="40" alt="neo4j logo"  /></a>
   <img width="12" /> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  /></a>
-  <img width="12" />
   <a href="https:/www.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="img/powebi.jpeg" width="76" height="36" alt="POWERBI" /></a>
-    <img width="12" /></a>
+    <img src="img/powebi.jpeg" height="36" alt="POWERBI" /></a>
+ <a href="https:www.qgis.org/" target="_blank" rel="noreferrer">
+    <img src="img/qgis.png" height="36" alt="QGIS" /></a>
 </p>
 
 
