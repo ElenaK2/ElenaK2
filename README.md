@@ -1,4 +1,4 @@
-Hi 👋 My name is Yelyena Kosmach
+Hi 👋 😊  My name is Yelyena Kosmach
 ================================
 
 Economist & Data Scientist
