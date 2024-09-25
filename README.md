@@ -3,8 +3,8 @@ Ciao 👋 😊  My name is Yelyena Kosmach
 
 Economist & Data Scientist
 
-* 🌍  Based in Bergamo (Italy)
-* ❤️  Passionate about Machine Learning and Data Analysis
+* 🌍   Based in Bergamo (Italy)
+* ❤️   Passionate about Machine Learning and Data Analysis
 
 ### Skills
 
