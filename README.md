@@ -36,11 +36,10 @@ Economist & Data Scientist
     <img src="img/stata.svg" width="86" height="40" alt="STATA" /></a>
     <img width="12" /> </a>
  <a href="https://www.office.com/" target="_blank" rel="noreferrer">
-    <img src="img/Microsoft_365.png" height="30" alt="Microsoft365" /></a>
-
+    <img src="img/Microsoft_365.png" height="25" alt="Microsoft365" /></a>
       <img width="12" /> </a>
  <a href="https://it.wikipedia.org/wiki/Application_programming_interface" target="_blank" rel="noreferrer">
-    <img src="img/API.svg" width="46" height="36" alt="API" /></a>
+    <img src="img/API.jpg" width="46" height="46" alt="API" /></a>
     <img width="12" /> </a>
 </p>
 
