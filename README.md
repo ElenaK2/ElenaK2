@@ -3,9 +3,8 @@ Ciao 👋 😊  My name is Yelyena Kosmach
 
 Economist & Data Scientist
 
-* 🌍  I'm based in Bergamo (Italy)
-* ✉️  You can contact me at [elena.kosmach@gmail.com](mailto:elena.kosmach@gmail.com)
-* 🧠  I'm learning Machine Learning
+* 🌍 Based in Bergamo (Italy)
+* 🧠 Studyin Machine Learning and Data Analysis
 
 ### Skills
 
