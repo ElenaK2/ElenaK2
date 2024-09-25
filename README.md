@@ -24,3 +24,6 @@ Economist & Data Scientist
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/ElenaK2/github_portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaK2&repo=github_portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ElenaK2/portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaK2&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+https://drive.google.com/file/d/161c6QoiUeouVy4WZHBdmdINc_C2K6rUx/view?usp=sharing
