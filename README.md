@@ -8,8 +8,6 @@ Economist & Data Scientist
 * Connect with me on <a href="https://linkedin.com/in/elena.kosmach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elena.kosmach" height="30" width="20" /></a> <a href="https://instagram.com/elena.kosmach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elena.kosmach" height="30" width="20" /></a>
 
 ### Skills
-
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -27,10 +25,12 @@ Economist & Data Scientist
     <img src="img/SAS.svg" width="66" height="36" alt="SAS" /></a>
     <img width="12" /></a>
   <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="40" alt="neo4j logo"  /></a>
+  <img width="12" /> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  /></a>
   <img width="12" />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
+  <a href="https:/www.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="img/powebi.jpeg" width="76" height="36" alt="POWERBI" /></a>
+    <img width="12" /></a>
 </p>
 
 
