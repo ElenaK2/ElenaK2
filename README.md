@@ -6,7 +6,7 @@ Economist & Data Scientist
 * 🌍   Based in Bergamo (Italy)
 * ❤️    Passionate about Machine Learning and Data Analysis
 
-
+================================
 ### Skills
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
