@@ -31,6 +31,9 @@ Economist & Data Scientist
     <img src="img/powebi.jpeg" height="36" alt="POWERBI" /></a>
  <a href="https:www.qgis.org/" target="_blank" rel="noreferrer">
     <img src="img/qgis.png" height="36" alt="QGIS" /></a>
+    <img width="12" /> </a>
+ <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
+    <img src="img/stata.svg" width="86" height="40" alt="STATA" /></a>
 </p>
 
 
