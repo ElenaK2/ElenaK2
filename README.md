@@ -1,4 +1,4 @@
-Ciao 👋 😊  My name is Yelyena (Elena) Kosmach
+Ciao 👋 😊  My name is Elena Kosmach
 ================================
 
 Economist & Data Scientist
