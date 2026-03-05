@@ -1,4 +1,4 @@
-Ciao 👋 😊  My name is Elena Kosmach
+Ciao 👋 😊  My name is Elena Cosma
 ================================
 
 Economist & Data Scientist
